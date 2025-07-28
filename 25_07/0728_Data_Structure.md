@@ -169,7 +169,8 @@ print(words1)  # ['Hello', ' world!']
 print(words2)  # ['Hello,', 'world!']
 ```
 
-> ### ***split maxsplit 추가***
+> ### ***split maxsplit***
+분할할 최대 횟수를 나타내는 정수, 생략 가능함
 
 ### 'separator'.join(iterable)
 
