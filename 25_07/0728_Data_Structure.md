@@ -157,7 +157,7 @@ new_text = text.strip()
 print(new_text)  # Hello, world!
 ```
 
-> ### ***[chars] 활용***
+> ### `[chars] 활용`
 
 ### .split(sep=None, maxsplit=-1)
 
@@ -169,7 +169,7 @@ print(words1)  # ['Hello', ' world!']
 print(words2)  # ['Hello,', 'world!']
 ```
 
-> ### ***split maxsplit***
+> ### `split maxsplit`
 분할할 최대 횟수를 나타내는 정수, 생략 가능함
 
 ### 'separator'.join(iterable)
@@ -180,7 +180,7 @@ text = '-'.join(words)
 print(text)  # Hello-world!
 ```
 
-> ### ***join 구분자 추가***
+> ### `join 구분자 추가`
 
 ```
 text = 'heLLo, woRld!'
