@@ -1,3 +1,4 @@
-[submodule "images"]
-	path = images
-	url = https://github.com/ehtm01/my_project_images.git
+[submodule "my_project_images"]
+  path = my_project_images
+  url = git@github.com:ehtm01/my_project_images.git
+  branch = main
